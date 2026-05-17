@@ -1,5 +1,5 @@
 # cmd
-
+https://gemini.google.com/share/effd50ace834
 Quick setup instructions for the project.
 
 ## Prerequisites
