@@ -1,6 +1,7 @@
 # cmd
-https://gemini.google.com/share/effd50ace834
-Quick setup instructions for the project.
+- https://gemini.google.com/share/effd50ace834
+- https://www.notion.so/Salesforce-Assignments-3544a5fe0519800b8217c8bc4f53628b
+- Quick setup instructions for the project.
 
 ## Prerequisites
 - Git
